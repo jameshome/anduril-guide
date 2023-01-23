@@ -1,4 +1,4 @@
-# A one page guide to Andúril 2
+# A one page printable guide to Andúril 2
 
 A one page printable guide to the [open source](https://code.launchpad.net/~toykeeper/flashlight-firmware/anduril2) Andúril 2 flashlight interface.
 
