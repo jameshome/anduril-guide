@@ -6,7 +6,7 @@ A one page printable guide to the [open source](https://code.launchpad.net/~toyk
 
 # Updates
 
-Document revisions are numbered in the upper left corner with the firmware version number and a patch number to accomodate any corrections. Please [add an Issue](https://github.com/jameshome/anduril-guide/issues) if you discover an error.
+Document revisions are numbered in the upper right corner with the firmware version number and a patch number to accomodate any corrections. Please [add an Issue](https://github.com/jameshome/anduril-guide/issues) if you discover an error.
 
 # Thanks
 
