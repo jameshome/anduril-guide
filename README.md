@@ -6,7 +6,7 @@ A one page printable guide to the [open source](https://code.launchpad.net/~toyk
 
 # Download
 
-- [Anduril 2 Guide in PDF format](anduril-guide.pdf)
+- [Anduril 2 Guide in PDF format](https://github.com/jameshome/anduril-guide/raw/main/anduril-guide.pdf)
 
 # Updates
 
