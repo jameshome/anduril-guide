@@ -1,6 +1,6 @@
 # A two page printable guide to Andúril 2
 
-A two page printable guide to the [open source](https://toykeeper.net/anduril) Andúril 2 flashlight interface.
+A two page guide to the [open source](https://toykeeper.net/anduril) Andúril 2 flashlight interface designed to be duplex printed and booklet folded.
 
 ![Advanced UI](anduril-guide-advanced.png)
 ![Simple UI](anduril-guide-simple.png)
